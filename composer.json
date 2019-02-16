@@ -1,0 +1,14 @@
+{
+  "name": "bradtreloar/button_link",
+  "type": "drupal-module",
+  "description": "Button Link",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.github.com/bradtreloar/drupal-button-link",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.github.com/bradtreloar/drupal-button-link/issues",
+    "source": "https://www.github.com/bradtreloar/drupal-button-link.git"
+  },
+  "require": { }
+}
