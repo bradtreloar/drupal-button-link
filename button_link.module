@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * Implements template_prepreprocess_field
+ */
+function button_link_preprocess_field(&$vars) {
+  if ($vars['element']['#formatter'] == 'button_link')
+    $vars['attributes']['class'][] = 'button-group';
+}

@@ -1,0 +1,5 @@
+name: 'Button Link'
+type: module
+description: 'Format a link field as a group of buttons.'
+core: 8.x
+package: 'Alkaline'
